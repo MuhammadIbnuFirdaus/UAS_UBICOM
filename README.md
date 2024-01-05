@@ -1,6 +1,6 @@
 # UAS_UBICOM
 
-# Referensi Space Parking menggunakan Opencv yang memiliki pengambilan gambar kemiringan
+# Referensi Space Parking menggunakan Opencv yang memiliki kemiringan pada pengambilan gambar.
 1. Shanthakumari, PK Sheela, et al. "A Study on Smart Parking Space Allocator and Parking Management Using Opencv." Mathematical Statistician and Engineering Applications 72.1 (2023): 98-104.
 2. Tutika, Chetan Sai, and Charan Vallapaneni. "Image handling and processing for efficient parking space detection and navigation aid." arXiv preprint arXiv:1807.02424 (2018).
 3. Vîlceanu, Răzvan, Andrei Ternauciuc, and Mihai Onița. "A Student Smart Parking Solution using Raspberry Pi."
